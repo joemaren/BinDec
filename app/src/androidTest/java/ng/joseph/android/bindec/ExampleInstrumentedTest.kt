@@ -1,4 +1,4 @@
-package com.bignerdranch.android.bindec
+package ng.joseph.android.bindec
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

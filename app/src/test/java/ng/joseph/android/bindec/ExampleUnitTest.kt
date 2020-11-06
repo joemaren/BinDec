@@ -1,4 +1,4 @@
-package com.bignerdranch.android.bindec
+package ng.joseph.android.bindec
 
 import org.junit.Test
 
